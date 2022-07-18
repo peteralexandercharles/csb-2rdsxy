@@ -1,0 +1,2 @@
+(this["webpackJsonphands-3-d-ui-copy"]=this["webpackJsonphands-3-d-ui-copy"]||[]).push([[0],{40:function(e,t,n){},47:function(e,t,n){"use strict";n.r(t);var c=n(15),s=n(28),o=(n(40),n(29)),i=n(20);function d(){return Object(i.jsx)(o.a,{scene:"https://prod.spline.design/5i7dUKIo47Mo1vT3/scene.splinecode"})}var r=document.getElementById("root");Object(s.createRoot)(r).render(Object(i.jsx)(c.StrictMode,{children:Object(i.jsx)(d,{})}))}},[[47,1,2]]]);
+//# sourceMappingURL=main.e3a68e71.chunk.js.map
